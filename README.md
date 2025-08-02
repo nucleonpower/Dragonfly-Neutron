@@ -12,7 +12,7 @@ The Dragonfly-N Includes:
 * Baseline Restore 
 * Single-Channel Analyzer 
 * High-Speed Digital Counter 
-* 0-1200V Ultra-low Noise Power Supply 
+* 0-1500V Ultra-low Noise Power Supply 
 * USB-C Interface 
 * Software Included 
 * High-Voltage BNC Output 
