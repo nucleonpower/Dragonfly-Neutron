@@ -1,4 +1,4 @@
-Tired of unreliable neutron-counting systems with high gamma sensitivity? Want to know your neutron flux with professional-level certainty, but without paying professional-level prices? Look no further! The Dragonfly-N is the system for you.
+Tired of unreliable neutron-counting systems with high gamma or noise sensitivity? Want to know your neutron flux with professional-level certainty, but without paying professional-level prices? Look no further! The Dragonfly-N is the system for you.
 
 The Dragonfly-N is a reliable, compact, and fully-digital system for neutron detection. Each unit is tested with a neutron source before leaving our facility.
 
