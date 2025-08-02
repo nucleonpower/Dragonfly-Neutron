@@ -2,7 +2,7 @@ Tired of unreliable neutron-counting systems with high gamma or noise sensitivit
 
 The Dragonfly-N is a reliable, compact, and fully-digital system for neutron detection. Each unit is tested with a neutron source before leaving our facility.
 
-This set includes a detector (high-sensitivity He-3) for a full turnkey system for detecting neutrons. Just connect to your computer through the included USB-C cable, open our software, and you're ready to go! 
+Pair with a proportional detector (BF3 or 3He) or neutron scintillator for a full neutron detection system. Just connect to your computer through the included USB-C cable, open our software, and you're ready to go! 
 
 The Dragonfly-N Includes: 
 
