@@ -6,19 +6,21 @@ This set includes a detector (high-sensitivity He-3) for a full turnkey system f
 
 The Dragonfly-N Includes: 
 
-Charge-Sensitive Amp
-P/Z Correction Stage 
-Shaping Gain Stage 
-Baseline Restore 
-Single-Channel Analyzer 
-High-Speed Digital Counter 
-0-1200V Ultra-low Noise Power Supply 
-USB-C Interface 
-Software Included 
-High-Voltage BNC Output 
-Convenient Mounting Holes
-Factory Tested with a Neutron Source 
-Compact Size (68mm (2.7") Hex Width)
-
+* Charge-Sensitive Amp
+* P/Z Correction Stage 
+* Shaping Gain Stage 
+* Baseline Restore 
+* Single-Channel Analyzer 
+* High-Speed Digital Counter 
+* 0-1200V Ultra-low Noise Power Supply 
+* USB-C Interface 
+* Software Included 
+* High-Voltage BNC Output 
+* Convenient Mounting Holes
+* Factory Tested with a Neutron Source 
+* Compact Size (68mm (2.7") Hex Width)
 
 The included software allows full control of the bias voltage, monitoring of detector parameters and neutron counts, and exporting timestamped data (100ms interval).
+
+Contact:
+Nucleon Power, Inc. | 78 Mitchell Rd., Oak Ridge, TN 37830 | nucleonpower.com
